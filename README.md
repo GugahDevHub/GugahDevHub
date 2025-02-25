@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Bem-vindo(a) ao perfil do Gugah Dev Hub! 😁
+## Bem-vindo(a) ao perfil do Gugah! 😁
 
  <div>
    <a href="https://github.com/GugahDevHub">
